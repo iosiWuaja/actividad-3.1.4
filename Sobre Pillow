@@ -1,0 +1,16 @@
+Pillow es una biblioteca de Python que permite trabajar con imágenes de manera fácil y eficiente. Puedes usarla para abrir, manipular y 
+guardar imágenes en diferentes formatos, como JPEG, PNG o BMP. En un proyecto, puedes aplicar Pillow para realizar tareas como redimensionar 
+imágenes, ajustar su brillo y contraste, aplicar filtros como blanco y negro o sepia, entre otras cosas.
+
+Para usar Pillow en nuestro proyecto, primero debemos instalarlo con pip, (pip install pillow) Luego, podemos importar las funciones y 
+clases necesarias en tu código y empezar a trabajar con las imágenes.
+
+Después de abrir la imagen, se pueden aplicar diversar operaciones según lo que senecesite, una vez que se haya terminado de manipular 
+la imagen, se puede guardar en el formato deseado.
+
+Ventajas de usar Pillow: Es fácil de usar, contiene funcionalidades avanzadas para el procesamiento de imágenes, filtros, efectos, 
+transformaciones geométricas y más.
+
+Desventajas: Pillow puede no ser tan eficiente en términos de rendimiento, especialmente para operaciones intensivas de procesamiento de 
+imágenes en grandes conjuntos de datos. Aunque Pillow es una biblioteca independiente, puede depender de otras bibliotecas subyacentes, 
+como libjpeg y libpng, lo que puede complicar la instalación en algunos entornos.
